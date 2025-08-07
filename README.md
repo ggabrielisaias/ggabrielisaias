@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, me chamo Gabriel! 👋</h1>
-  <h3>Desenvolvedor Full Stack | Java & React | #OpenToWork 🚀</h3>
+  <h3>Desenvolvedor back end | Java  | #OpenToWork 🚀</h3>
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-isaias-635b72299/)
   [![Portfólio](https://img.shields.io/badge/-Portfólio-121011?style=flat-square&logo=github&logoColor=white)](https://ggabrielisaias.github.io)
@@ -12,10 +12,10 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Tecnólogo em Gestão da Tecnologia da Informação pela UNINTER  
-- 💻 Estudando e praticando desenvolvimento Full Stack com Java, Spring Boot, React e SQL  
+- 💻 Estudando e praticando desenvolvimento back end com Java, Spring Boot e SQL  
 - 🧠 Gosto de resolver problemas reais com código e entregar soluções web modernas e eficientes  
 - 🚀 Estou sempre evoluindo, aprendendo e contribuindo com projetos impactantes  
-- 👨‍💻 Também atuo como freelancer
+
 
 ---
 
@@ -27,7 +27,7 @@
       <img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
     </td>
     <td valign="top"><strong>🚀 Frameworks e Bibliotecas</strong><br>
-      <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs" />
     </td>
   </tr>
   <tr>
