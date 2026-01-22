@@ -1,13 +1,19 @@
-<div align="center">
-  <h1>Olá, me chamo Gabriel! 👋</h1>
-  <h3>Desenvolvedor back end | Java  | #OpenToWork 🚀</h3>
-
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-isaias-635b72299/)
-  [![Portfólio](https://img.shields.io/badge/-Portfólio-121011?style=flat-square&logo=github&logoColor=white)](https://ggabrielisaias.github.io)
-  [![Email](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielisaiasmarques@gmail.com)
+<div align="right">
+  <br>
+  <img src="perfil-tech-desk.png" width="380px" alt="Gabriel Isaias - Desenvolvedor Back End Java" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
 </div>
 
----
+<h1>Olá, me chamo Gabriel! 👋</h1>
+<h3>Desenvolvedor back end | Java | #OpenToWork 🚀</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/gabriel-isaias-635b72299/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gabrielisaiasmarques@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ## 🧑‍💻 Sobre mim
 
@@ -16,6 +22,7 @@
 - 🧠 Gosto de resolver problemas reais com código e entregar soluções web modernas e eficientes  
 - 🚀 Estou sempre evoluindo, aprendendo e contribuindo com projetos impactantes  
 
+<br clear="right">
 
 ---
 
@@ -35,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,postgres" />
     </td>
     <td valign="top"><strong>🛠️ Ferramentas</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
     </td>
   </tr>
 </table>
@@ -54,7 +61,7 @@
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggabrielisaias&layout=compact&langs_count=7&theme=holi" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggabrielisaias&layout=compact&langs_count=7&theme=holi&count_private=true&cache_seconds=1800" 
   />
 </div>
 
@@ -71,4 +78,3 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58a6ff,100:050614" />
-
